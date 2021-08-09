@@ -6504,3 +6504,20 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
+p {
+  color: #52d203 !important;
+}
+.v[data-class=v] .status-bar,
+.v[data-class=v] .veditor,
+.v[data-class=v] .vinput,
+.v[data-class=v] p,
+.v[data-class=v] pre code {
+  color: #52d203 !important;
+}
+.v[data-class=v] .vsys,
+.v[data-class=v] .vtime {
+  color: rgba(16,160,160,0.902) !important;
+}
+.v[data-class=v] .vpower {
+  color: #0096b9 !important;
+}
