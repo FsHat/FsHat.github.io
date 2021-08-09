@@ -1298,7 +1298,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: -apple-system, IBM Plex Mono ,monosapce,"微软雅黑", sans-serif;
+  font-family: -apple-system, IBM Plex Mono ,monosapce,"华文隶书", sans-serif;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
